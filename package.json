@@ -1,5 +1,5 @@
 {
-  "name": "prosemirror-utils",
+  "name": "prosemirror-utils-tests",
   "version": "0.6.7",
   "description": "Utils library for ProseMirror",
   "main": "dist/index.js",
